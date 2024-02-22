@@ -20,4 +20,4 @@ Espero te sirva este ejemplo de un blog y puedas modificarlo a tu gusto.
 
 > I have started to be disruptive in my routine in order to generate a change, and you? // He empezado a ser disruptiva en mi rutina para generar un cambio. ¿Y tú?
 
-***Aprendido y aplicado por Miriam Zamora Morales***
+***Aprendido y aplicado por Miriam***
